@@ -1,0 +1,12 @@
+name: ds4biomed
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - seaborn
+  - jupyterlab
+  - openpyxl
+  - sebp::scikit-survival
